@@ -1,1 +1,0 @@
-# odir5k-retinal-classifier
